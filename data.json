@@ -1,0 +1,22 @@
+{
+    "Base of CV":[
+        "Personal information",
+        "Work experience",
+        "Achievements",
+        "Biography"
+    ],
+    "awesomeEnglish":[
+        {
+            "En":"He broke wind in the car",
+            "Ch":"他在車子裡放屁"
+        },
+        {
+            "En":"He passed away",
+            "Ch":"他過世了"
+        },
+        {
+            "En":"I'm between jobs",
+            "Ch":"正在待業中"
+        }
+    ]
+}
